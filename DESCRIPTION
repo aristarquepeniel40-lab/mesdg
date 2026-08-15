@@ -25,3 +25,5 @@ Collate:
     '00_goals.R'
     '01_registry.R'
     '02_construct.R'
+URL: https://github.com/aristarquepeniel40-lab/mesdg
+BugReports: https://github.com/aristarquepeniel40-lab/mesdg/issues
