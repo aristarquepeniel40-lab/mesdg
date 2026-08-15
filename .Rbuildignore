@@ -1,0 +1,10 @@
+^walking_skeleton\.R$
+^GUIDE_MESDG\.md$
+^.*\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^_pkgdown\.yml$
+^data-raw$
+^[0-9A-F]{8}$
+^shared$
+^\.github$

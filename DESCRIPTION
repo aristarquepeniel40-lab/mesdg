@@ -1,0 +1,27 @@
+Package: mesdg
+Title: Registre des indicateurs ODD pour l'ecosysteme MEverse
+Version: 0.0.0.9000
+Authors@R: person("Aristarque Peniel", "Segue", email = "vous@example.com", role = c("aut", "cre"))
+Description: Registre etendu des indicateurs officiels du cadre mondial
+    des Objectifs de developpement durable (ODD/SDG) des Nations Unies
+    (source : unstats.un.org, recupere aout 2026), remplacant le petit
+    registre de 4 indicateurs initialement embarque dans mecore. Couvre
+    integralement les objectifs 1 a 12 et un sous-ensemble verifie des
+    objectifs 13 a 17 (190 indicateurs au total, non exhaustif des 234
+    officiels). Fournit des fonctions de recherche et un constructeur
+    de mecore::me_indicator a partir d'un code ODD.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.0.0
+Imports:
+    mecore (>= 0.0.0.9000)
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Remotes:
+    aristarquepeniel40-lab/mecore
+Collate:
+    '00_goals.R'
+    '01_registry.R'
+    '02_construct.R'
