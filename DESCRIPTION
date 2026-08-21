@@ -1,6 +1,6 @@
 Package: mesdg
 Title: Registre des indicateurs ODD pour l'ecosysteme MEverse
-Version: 0.0.0.9000
+Version: 1.0.0
 Authors@R: person("Aristarque Peniel", "Segue", email = "vous@example.com", role = c("aut", "cre"))
 Description: Registre etendu des indicateurs officiels du cadre mondial
     des Objectifs de developpement durable (ODD/SDG) des Nations Unies
@@ -15,7 +15,7 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 8.0.0
 Imports:
-    mecore (>= 0.0.0.9000)
+    mecore (>= 1.0.0)
 Suggests:
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
