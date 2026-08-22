@@ -7,7 +7,7 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/aristarquepeniel40-lab/mesdg/blob/master/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/aristarquepeniel40-lab/mesdg/blob/v1.0.0/DESCRIPTION)
 
 Segue A (2026). *mesdg: Registre des indicateurs ODD pour l'ecosysteme
 MEverse*. R package version 1.0.0,
